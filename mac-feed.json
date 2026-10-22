@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/landonmoyers-svg/clinic-desk-releases/releases/download/v0.1.6/Clinic-Desk-0.1.6-mac-arm64.zip",
-  "name": "Clinic Desk 0.1.6",
-  "notes": "Hide Jane's day-schedule column from Jane's toolbar. Press Get it — this one installs itself.",
-  "pub_date": "2026-10-14T20:44:07.298Z"
+  "url": "https://github.com/landonmoyers-svg/clinic-desk-releases/releases/download/v0.1.7/Clinic-Desk-0.1.7-mac-arm64.zip",
+  "name": "Clinic Desk 0.1.7",
+  "notes": "Document downloads no longer freeze the app; Rcopia opens the patient it finds; medications no longer duplicate on migrate.",
+  "pub_date": "2026-10-22T21:35:53.413Z"
 }
