@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/landonmoyers-svg/clinic-desk-releases/releases/download/v0.1.7/Clinic-Desk-0.1.7-mac-x64-INTEL.zip",
-  "name": "Clinic Desk 0.1.7",
-  "notes": "Document downloads no longer freeze the app; Rcopia opens the patient it finds; medications no longer duplicate on migrate.",
-  "pub_date": "2026-10-22T21:37:08.786Z"
+  "url": "https://github.com/landonmoyers-svg/clinic-desk-releases/releases/download/v0.1.8/Clinic-Desk-0.1.8-mac-x64-INTEL.zip",
+  "name": "Clinic Desk 0.1.8",
+  "notes": "Check for updates in Settings, and your UtahID sign-in now saves for EVS.",
+  "pub_date": "2026-10-23T00:36:05.116Z"
 }
